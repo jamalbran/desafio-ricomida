@@ -1,0 +1,14 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+.borde-pizza {
+    border-top: 1px solid #000000;
+    padding-top: 1rem;
+}
+
+.carousel img {
+    width: 16.8rem;
+    height: 11.2rem;
+}
